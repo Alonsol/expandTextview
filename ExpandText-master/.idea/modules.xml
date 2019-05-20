@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExpandText-master.iml" filepath="$PROJECT_DIR$/ExpandText-master.iml" />
+      <module fileurl="file://E:\studydemo\20180921\ExpandText-master\ExpandTextDemo.iml" filepath="E:\studydemo\20180921\ExpandText-master\ExpandTextDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\studydemo\20180921\ExpandText-master\app\app.iml" filepath="E:\studydemo\20180921\ExpandText-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandtextview/expandtextview.iml" filepath="$PROJECT_DIR$/expandtextview/expandtextview.iml" />
+      <module fileurl="file://E:\studydemo\20180921\ExpandText-master\expandtextview\expandtextview.iml" filepath="E:\studydemo\20180921\ExpandText-master\expandtextview\expandtextview.iml" />
+    </modules>
+  </component>
+</project>
